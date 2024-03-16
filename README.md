@@ -1,2 +1,2 @@
 # SSD
-Semantic Segmentation of CT images with and without contrast using diffusion
+Semantic Segmentation of annotated CT images with and without contrast using diffusion 
