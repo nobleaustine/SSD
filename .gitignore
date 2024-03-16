@@ -1,3 +1,11 @@
+# files and folders of the project
+*.txt
+*.xlsx
+*.pickle
+
+data/credentials
+images/terminal/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

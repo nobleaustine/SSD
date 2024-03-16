@@ -1,2 +1,2 @@
 # SSD
-Semantic Segmentation of annotated CT images with and without contrast using diffusion 
+organ segmentaion of pigs using annotated CT images with and without contrast using semantic segmentation through diffusion 
